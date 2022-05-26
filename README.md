@@ -17,3 +17,6 @@
 - ~responding {anything else} : turns off response to messages
 - ~write {channel} {Message} : writes Message in channel {channel}.
 - ~clear {integer n} : deletes n messages.
+
+
+![image](https://user-images.githubusercontent.com/70171925/170505517-62a171e7-00c6-49db-b76f-3713f3d63cdd.png)
